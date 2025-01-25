@@ -1,7 +1,7 @@
 'use strict';
 
 const todoList = document.getElementById('todo-list');
-const todoInput = document.getElementById('todo-input');
+const todoInput = document.getElementById('todo-main-input');
 const todoBlock = document.querySelector('.todo-block');
 const deleteButtonAll = document.getElementById('del-allbtn');
 
